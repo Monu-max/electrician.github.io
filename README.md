@@ -5,7 +5,7 @@ Vipin tyagi-9868784141
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Electrical Shop</title>
+    <title>Ramdas Electrical Shop</title>
     <link rel="stylesheet" href="styles.css"> <!-- Linking to the CSS file -->
 </head>
 <body>
