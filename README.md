@@ -1,5 +1,5 @@
 # RAMDAS Electrical.github.io
-Vipin tyagi-9868784141 (power of energy)
+Vipin tyagi-9868784141 
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -55,7 +55,7 @@ Vipin tyagi-9868784141 (power of energy)
     <!-- Contact Section -->
     <section id="contact">
         <h2>Contact Us</h2>
-        <p>For inquiries, please call us at: 123-456-7890</p>
+        <p>For inquiries, please call us at: 875-088-8654</p>
         <p>Visit our shop takiya chowk near pnb bank burari, Delhi, india</p>
         <p>Email: tyagivipin699@gmail.com</p>
     </section>
