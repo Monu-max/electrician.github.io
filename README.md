@@ -1,5 +1,5 @@
 # RAMDAS Electrical.github.io
-e-capital (power of energy)
+Vipin tyagi-9868784141 (power of energy)
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,13 +11,13 @@ e-capital (power of energy)
 <body>
     <!-- Header Section -->
     <header>
-        <h1>Welcome to ABC Electrical Shop</h1>
+        <h1>Welcome to Ramdas Electrical Shop</h1>
         <nav>
             <ul>
                 <li><a href="#home">Home</a></li>
                 <li><a href="#products">Products</a></li>
                 <li><a href="#services">Services</a></li>
-                <li><a href="#contact">Contact Us</a></li>
+                <li><a href="#9868784141">Contact Us</a></li>
                 <li><a href="e-capital.html">e-capital (Power of Energy)</a></li> <!-- Link to another page -->
             </ul>
         </nav>
@@ -26,7 +26,7 @@ e-capital (power of energy)
     <!-- Home Section -->
     <section id="home">
         <h2>Your One-Stop Shop for Electrical Solutions</h2>
-        <p>At ABC Electrical Shop, we provide top-quality electrical products, services, and repairs at affordable prices.</p>
+        <p>At Ramdas Electrical Shop, we provide top-quality electrical products, services, and repairs at affordable prices.</p>
     </section>
 
     <!-- Products Section -->
@@ -56,13 +56,13 @@ e-capital (power of energy)
     <section id="contact">
         <h2>Contact Us</h2>
         <p>For inquiries, please call us at: 123-456-7890</p>
-        <p>Visit our shop at: 123 Electrical Street, City, Country</p>
-        <p>Email: contact@abc-electrical.com</p>
+        <p>Visit our shop takiya chowk near pnb bank burari, Delhi, india</p>
+        <p>Email: tyagivipin699@gmail.com</p>
     </section>
 
     <!-- Footer -->
     <footer>
-        <p>&copy; 2024 ABC Electrical Shop. All rights reserved.</p>
+        <p>&copy; 2024 Ramdas Electrical Shop. All rights reserved.</p>
     </footer>
 </body>
 </html>
